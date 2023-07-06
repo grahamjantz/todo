@@ -2,8 +2,8 @@
 
 $sName = "localhost";
 $uName = "root";
-$pass = "";
-$db_name = "to-do-list";
+$pass = "Qdyk,SLYP.v2'";
+$db_name = "tasks";
 
 
 try {
